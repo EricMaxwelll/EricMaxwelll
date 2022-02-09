@@ -1,1 +1,1 @@
-- 👋 Hello, people know me as @EricMaxwelll, and I am a Full Stack Developer in Ruby on Rails + React.js. I am also a director of some consulting companies in CL/USA
+- 👋 Hello, people know me as @EricMaxwelll, and I am a Full Stack Developer in Ruby on Rails & MERN Stack. I am also a director of some consulting companies in CL/USA
