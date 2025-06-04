@@ -14,7 +14,6 @@
 - 🔒 Ciberseguridad & Pentesting
 - 🚀 Startups & Product Management
 
----
 
 ## 💼 Actualmente...
 
@@ -128,6 +127,8 @@
     - Terraform
     - Dokploy
     - Coolify
+
+---
 
 ## 📜 Manifiesto Profesional
 
