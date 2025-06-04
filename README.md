@@ -6,13 +6,13 @@
 
 **Ingeniero de Software** con más de **+10 años de experiencia** creando productos tecnológicos de alto impacto. Toda mi carrera profesional está basada en estas 7 especialidades:
 
-- 🖥️ Diseño de Experiencia de Usuario (UX/UI)
-- ⚙️ Ingeniería de Datos y Análisis
-- 💻 Full Stack Development (React.js + Backend)
-- 📱 Desarrollo Mobile (iOS / Android)
-- 🛠 DevOps y Automatización
-- 🔒 Ciberseguridad & Pentesting
-- 🚀 Startups & Product Management
+- 🖥️ Diseño de Experiencia de Usuario (UX/UI) [Hobby]
+- ⚙️ Ingeniería de Datos y Análisis [Professional]
+- 💻 Full Stack Development (React.js + Backend) [Professional]
+- 📱 Desarrollo Mobile (iOS / Android) [Hobby]
+- 🛠 DevOps y Automatización [Professional]
+- 🔒 Ciberseguridad & Pentesting [Hobby]
+- 🚀 Startups & Product Management [Professional]
 
 
 ## 💼 Actualmente...
@@ -30,7 +30,7 @@
 ## 🛠 Stack Actual
 
 <details>
-<summary><strong>💻 Lenguajes de Programación</strong></summary>
+<summary><strong>⌨️ Lenguajes de Programación</strong></summary>
 
 - JavaScript
 - Python
@@ -46,7 +46,7 @@
 </details>
 
 <details>
-<summary><strong>🗃️ Bases de Datos</strong></summary>
+<summary><strong>💾 Bases de Datos</strong></summary>
 
 - PostgreSQL
 - MongoDB  
@@ -77,7 +77,7 @@
 </details>
 
 <details>
-<summary><strong>🔧 Soluciones Backend</strong></summary>
+<summary><strong>💻 Soluciones Backend</strong></summary>
 
 - Google Apps Script (Macros in Google ®)
 - Express
@@ -94,7 +94,7 @@
 </details>
 
 <details>
-<summary><strong>🎨 Mi Stack Frontend</strong></summary>
+<summary><strong>🖥️ Mi Stack Frontend</strong></summary>
 
 - HTML
 - PUG (Template Engine)
