@@ -29,47 +29,55 @@
 
 ## 🛠 Stack Actual
 
-**Lenguajes de Programación:**
+<details>
+<summary><strong>💻 Lenguajes de Programación</strong></summary>
 
 - JavaScript
 - Python
 - Ruby
 - PHP
 - Java
-- C-Sharp
-- Aprendiendo ...
-    - GO
-    - Rust
-    - Zig
+- C-Sharp  
+  _Aprendiendo ..._
+  - GO
+  - Rust
+  - Zig
 
+</details>
 
-**Bases de Datos:**
+<details>
+<summary><strong>🗃️ Bases de Datos</strong></summary>
 
 - PostgreSQL
-- MongoDB
-- Aprendiendo ...
-    - PL/SQL
-    - SQL Server
-    - Redis
+- MongoDB  
+  _Aprendiendo ..._
+  - PL/SQL
+  - SQL Server
+  - Redis
 
-**Stack Data Analyst:**
+</details>
+
+<details>
+<summary><strong>📊 Stack Data Analyst</strong></summary>
 
 - Selenium IDE for Web Scraping
 - JavaScript for Analyst
 - Python for Analyst
 - DataGrip (Admin Databases)
-- DataSpell (Local Notebooks)
-  - 6 CPUs + 64 GB RAM for local processing
-- DeepNote (Remote Notebooks)
-  - 4 vCPUs + 16 GB RAM for remote processing
-- Aprendiendo ...
-    - Data Science
-    - Machine Learning
-    - Apache Kafka
-    - Apache Superset
+- DataSpell (Local Notebooks)  
+  ↳ 6 CPUs + 64 GB RAM  
+- DeepNote (Remote Notebooks)  
+  ↳ 4 vCPUs + 16 GB RAM  
+  _Aprendiendo ..._
+  - Data Science
+  - Machine Learning
+  - Apache Kafka
+  - Apache Superset
 
+</details>
 
-**Soluciones Backend:**
+<details>
+<summary><strong>🔧 Soluciones Backend</strong></summary>
 
 - Google Apps Script (Macros in Google ®)
 - Express
@@ -79,55 +87,51 @@
 - Ruby on Rails
 - Laravel
 - Spring Boot
-- .NET Core
-- Aprendiendo ...
-    - Nest
+- .NET Core  
+  _Aprendiendo ..._
+  - Nest.js
 
+</details>
 
-**Mi stack Frontend:**
+<details>
+<summary><strong>🎨 Mi Stack Frontend</strong></summary>
 
 - HTML
 - PUG (Template Engine)
-- CSS
-- SASS (Preprocessor)
-- JavaScript ES6+
+- CSS / SASS
+- JavaScript (ES6+)
 - TypeScript
 - Slide Framework
 - BulmaCSS
 - Bootstrap
 - TailwindCSS
 - Astro
-- React
-- Aprendiendo ...
-    - Next
-    - Angular
-    - Vue
+- React  
+  _Aprendiendo ..._
+  - Next.js
+  - Angular
+  - Vue.js
 
-**Mi stack Cloud:**
+</details>
+
+<details>
+<summary><strong>☁️ Mi Stack Cloud</strong></summary>
 
 - VPS Management
-- Ubuntu 22.04x
-- Debian 12
-- Docker
-- NGINX
-- PM2
-- CI/CD 
-- Bash Avanzado
-- ZSH
-- Automated SSL Wildcard Renewal
-- Vultr
-- GCP
-- AWS
-- Azure
-- Admin PostgreSQL Production
-- Admin MongoDB Production
-- Microservices through Subdomains
-- Aprendiendo ...
-    - Kubernetes
-    - Terraform
-    - Dokploy
-    - Coolify
+- Ubuntu 22.04x / Debian 12
+- Docker, NGINX, PM2, CI/CD
+- Bash Avanzado, ZSH
+- Auto-renovación SSL Wildcard
+- Vultr, GCP, AWS, Azure
+- Admin PostgreSQL / MongoDB en producción
+- Microservices through Subdomains  
+  _Aprendiendo ..._
+  - Kubernetes
+  - Terraform
+  - Dokploy
+  - Coolify
 
+</details>
 
 ## 📜 Manifiesto Profesional
 
