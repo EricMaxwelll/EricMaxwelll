@@ -19,10 +19,10 @@
 ## 💼 Actualmente...
 
 - 👨‍💻 Lidero equipos remotos en startups de 🇨🇱 Chile, 🇺🇸 EE.UU y 🇪🇺 Europa.
-- 🎓 Formo a profesionales en **Ingeniería de Datos y Análisis** y en **Full Stack Development**.
+- 🎓 Formo a profesionales en **Ingeniería de Datos** y en **Full Stack Development**.
 - 🌐 Lidero comunidades locales de programación en todo **Latinoamérica**
 - 🎖️ Autorizado por Credly ® y Cisco ® para emitir insignias de certificación en 🇺🇸 EE.UU
-- 💼 Creo programas de capacitación de 48 hrs especializados que incluyen:
+- 💼 Creo programas de capacitación de 48 hrs especializados + Proyectos Finales que incluyen:
     - 🧰 1 Sesión de Configuración de Ambiente
     - 🎬 4 Sesiónes En Vivo de 4 horas
     - 💼 1 Sesión de Proyecto Final 
@@ -38,7 +38,7 @@ Lenguajes de Programación:
 - PHP
 - Java
 - C-Sharp
-- Aprendiendo ...
+**- Aprendiendo ...**
     - GO
     - Rust
     - Zig
@@ -48,7 +48,7 @@ Bases de Datos:
 
 - PostgreSQL
 - MongoDB
-- Aprendiendo ...
+**- Aprendiendo ...**
     - PL/SQL
     - SQL Server
     - Redis
@@ -63,14 +63,14 @@ Stack Data Analyst:
   - 6 CPUs + 64 GB RAM for local processing
 - DeepNote (Remote Notebooks)
   - 4 vCPUs + 16 GB RAM for remote processing
-- Aprendiendo ...
+**- Aprendiendo ...**
     - Data Science
     - Machine Learning
     - Apache Kafka
     - Apache Superset
 
 
-Soluciones Backend:
+**Soluciones Backend:**
 
 - Google Apps Script (Macros in Google ®)
 - Express
@@ -81,11 +81,11 @@ Soluciones Backend:
 - Laravel
 - Spring Boot
 - .NET Core
-- Aprendiendo ...
+**- Aprendiendo ...**
     - Nest
 
 
-Mi stack Frontend:
+**Mi stack Frontend:**
 
 - HTML
 - PUG (Template Engine)
@@ -99,7 +99,7 @@ Mi stack Frontend:
 - TailwindCSS
 - Astro
 - React
-- Aprendiendo ...
+**- Aprendiendo ...**
     - Next
     - Angular
     - Vue
@@ -123,7 +123,7 @@ Mi stack Cloud:
 - Admin PostgreSQL Production
 - Admin MongoDB Production
 - Microservices through Subdomains
-- Aprendiendo ...
+**- Aprendiendo ...**
     - Kubernetes
     - Terraform
     - Dokploy
