@@ -30,7 +30,7 @@
 
 ## 🛠 Stack Actual
 
-Lenguajes de Programación:
+**Lenguajes de Programación:**
 
 - JavaScript
 - Python
@@ -44,7 +44,7 @@ Lenguajes de Programación:
     - Zig
 
 
-Bases de Datos:
+**Bases de Datos:**
 
 - PostgreSQL
 - MongoDB
@@ -53,7 +53,7 @@ Bases de Datos:
     - SQL Server
     - Redis
 
-Stack Data Analyst:
+**Stack Data Analyst:**
 
 - Selenium IDE for Web Scraping
 - JavaScript for Analyst
@@ -104,7 +104,7 @@ Stack Data Analyst:
     - Angular
     - Vue
 
-Mi stack Cloud:
+**Mi stack Cloud:**
 
 - VPS Management
 - Ubuntu 22.04x
