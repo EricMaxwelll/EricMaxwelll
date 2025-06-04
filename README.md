@@ -128,7 +128,6 @@
     - Dokploy
     - Coolify
 
----
 
 ## 📜 Manifiesto Profesional
 
@@ -140,7 +139,6 @@ Desarrollo software como quien compone música:
 Cada línea de código que escribo, cada interfaz que diseño, cada dato que analizo…  
 es una oportunidad para **simplificar**, **conectar** y **dignificar el tiempo humano**.
 
----
 
 Creo que el conocimiento es para **compartirlo**.  
 Por eso enseño. Por eso lidero. Por eso creo caminos para que otros avancen.
@@ -150,7 +148,6 @@ Creo en productos **bellos, útiles y resistentes**.
 En construir con excelencia, incluso si nadie lo nota.  
 Porque la calidad no es vanidad, es **respeto** por quienes usarán lo que creo.
 
----
 
 Trabajo con código, pero pienso como diseñador, estructuro como ingeniero y siento como usuario.  
 Mi trabajo no termina cuando el sistema funciona.  
