@@ -58,7 +58,7 @@
 </details>
 
 <details>
-<summary><strong>📊 Stack Data Analyst</strong></summary>
+<summary><strong>🔬 Data Science / ⚙️ Data Engineer</strong></summary>
 
 - Selenium IDE for Web Scraping
 - JavaScript for Analyst
@@ -94,7 +94,7 @@
 </details>
 
 <details>
-<summary><strong>🖥️ Mi Stack Frontend</strong></summary>
+<summary><strong>🖥️ Frontend</strong></summary>
 
 - HTML
 - PUG (Template Engine)
