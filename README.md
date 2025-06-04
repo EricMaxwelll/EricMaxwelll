@@ -38,7 +38,7 @@
 - PHP
 - Java
 - C-Sharp  
-  _Aprendiendo ..._
+- Aprendiendo ...
   - GO
   - Rust
   - Zig
@@ -50,7 +50,7 @@
 
 - PostgreSQL
 - MongoDB  
-  _Aprendiendo ..._
+- Aprendiendo ...
   - PL/SQL
   - SQL Server
   - Redis
@@ -68,7 +68,7 @@
   ↳ 6 CPUs + 64 GB RAM  
 - DeepNote (Remote Notebooks)  
   ↳ 4 vCPUs + 16 GB RAM  
-  _Aprendiendo ..._
+- Aprendiendo ...
   - Data Science
   - Machine Learning
   - Apache Kafka
@@ -88,7 +88,7 @@
 - Laravel
 - Spring Boot
 - .NET Core  
-  _Aprendiendo ..._
+- Aprendiendo ...
   - Nest.js
 
 </details>
@@ -107,7 +107,7 @@
 - TailwindCSS
 - Astro
 - React  
-  _Aprendiendo ..._
+- Aprendiendo ...
   - Next.js
   - Angular
   - Vue.js
@@ -125,7 +125,7 @@
 - Vultr, GCP, AWS, Azure
 - Admin PostgreSQL / MongoDB en producción
 - Microservices through Subdomains  
-  _Aprendiendo ..._
+- Aprendiendo ...
   - Kubernetes
   - Terraform
   - Dokploy
