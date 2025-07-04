@@ -6,9 +6,9 @@
 
 **Ingeniero de Software** con más de **+10 años de experiencia** creando productos tecnológicos de alto impacto. Toda mi carrera [Professional] está basada en estas especialidades:
 
+- 💻 Full Stack Engineer (React.js + Backend en 6 Lenguajes) [Professional]
 - 📊 Data Analyst, Data Developer & Data Engineer [Professional]
-- 💻 Full Stack Development (React.js + Backend en 6 Lenguajes) [Professional]
-- 🛠 DevOps Development [Professional]
+- 🛠 DevOps Engineer [Professional]
 - 🚀 Startups & Product Management en 🇨🇱 Chile, 🇺🇸 EE.UU y 🇪🇺 Europa [Professional]
 
 Además, poseo las habilidates [Hobby]:
