@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Eric Maxwelll 👋</h1>
 <p align="center">🔩 Software Engineer • 🖥️ UX Engineer • ⚙️ Data Engineer</p>
-<p align="center">🇨🇱 Chile | 🇺🇸 EE.UU | 🇪🇺 Europa</p>
+<p align="center">🇨🇱 Programadores.org | 🇺🇸 AmericanSoftware.us | 🇪🇺 HiringandTalent.com </p>
 
 ## 🧠 Sobre mí
 
@@ -10,15 +10,18 @@
 - 📊 Data Analyst, Data Developer & Data Engineer [Professional]
 - 🛠 DevOps Engineer [Professional]
 - 🚀 Startups & Product Management en 🇨🇱 Chile, 🇺🇸 EE.UU y 🇪🇺 Europa [Professional]
+- 🎓 Elaboración de Programas Curriculares Bootcamps TI [Professional]
+- 💼 Elaboración de Proyectos de Certificación Internacional TI [Professional]
+- 🏕️ Docencia en VIVO de Programas Bootcamps TI [Professional]
+- 🎖️ Revisión y Certificación de Proyectos de Certificación Internacional [Professional]
 
-Además, poseo las habilidates [Hobby]:
+Además de mis habilidades profesionales que utilizo en mi día a día, tengo una trayectoria de [Hobbies] relacionados:
   
-- 💻 Soporte Técnico Especializado (Windows, Mac & Linux) [Hobby] desde 2006
-- 🎨 Diseño Gráfico (Photoshop, Illustrator, Affinity Suite) [Hobby] desde 2007
-- 🖥️ Diseño de Experiencia de Usuario (UX/UI) [Hobby] desde 2015
-- 📱 Desarrollo Mobile (iOS / Android) [Hobby] desde 2018
-- 🔒 Ciberseguridad & Pentesting [Hobby] desde 2020
-
+- 💻 Soporte Técnico Especializado (Windows, Mac & Linux) [Hobbies] desde 2006
+- 🎨 Diseño Gráfico (Photoshop, Illustrator, Affinity Suite) [Hobbies] desde 2008
+- 🖥️ Diseño de Experiencia de Usuario (UX/UI) [Hobbies] desde 2014
+- 📱 Desarrollo Mobile (iOS / Android) [Hobbies] desde 2018
+- 🔒 Ciberseguridad & Pentesting [Hobbies] desde 2020
 
 
 ## 💼 Actualmente...
