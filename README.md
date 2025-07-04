@@ -114,9 +114,9 @@ Además de mis habilidades profesionales que utilizo en mi día a día, tengo un
 - BulmaCSS
 - Bootstrap
 - TailwindCSS
-- Astro
 - React  
 - Aprendiendo ...
+  - Astro
   - Next.js
   - Angular
   - Vue.js
