@@ -4,20 +4,26 @@
 
 ## 🧠 Sobre mí
 
-**Ingeniero de Software** con más de **+10 años de experiencia** creando productos tecnológicos de alto impacto. Toda mi carrera profesional está basada en estas 7 especialidades:
+**Ingeniero de Software** con más de **+10 años de experiencia** creando productos tecnológicos de alto impacto. Toda mi carrera [Professional] está basada en estas especialidades:
 
-- 🖥️ Diseño de Experiencia de Usuario (UX/UI) [Hobby]
-- ⚙️ Ingeniería de Datos y Análisis [Professional]
-- 💻 Full Stack Development (React.js + Backend) [Professional]
-- 📱 Desarrollo Mobile (iOS / Android) [Hobby]
-- 🛠 DevOps y Automatización [Professional]
-- 🔒 Ciberseguridad & Pentesting [Hobby]
-- 🚀 Startups & Product Management [Professional]
+- 📊 Data Analyst, Data Developer & Data Engineer [Professional]
+- 💻 Full Stack Development (React.js + Backend en 6 Lenguajes) [Professional]
+- 🛠 DevOps Development [Professional]
+- 🚀 Startups & Product Management en 🇨🇱 Chile, 🇺🇸 EE.UU y 🇪🇺 Europa [Professional]
+
+Además, poseo las habilidates [Hobby]:
+  
+- 💻 Soporte Técnico Especializado (Windows, Mac & Linux) [Hobby] desde 2006
+- 🎨 Diseño Gráfico (Photoshop, Illustrator, Affinity Suite) [Hobby] desde 2007
+- 🖥️ Diseño de Experiencia de Usuario (UX/UI) [Hobby] desde 2015
+- 📱 Desarrollo Mobile (iOS / Android) [Hobby] desde 2018
+- 🔒 Ciberseguridad & Pentesting [Hobby] desde 2020
+
 
 
 ## 💼 Actualmente...
 
-- 👨‍💻 Lidero equipos remotos en startups de 🇨🇱 Chile, 🇺🇸 EE.UU y 🇪🇺 Europa.
+- 👨‍💻 Lidero equipos remotos en startups en 🇨🇱 Chile, 🇺🇸 EE.UU y 🇪🇺 Europa.
 - 🎓 Formo a profesionales en **Ingeniería de Datos** y en **Full Stack Development**.
 - 🌐 Lidero comunidades locales de programación en todo **Latinoamérica**
 - 🎖️ Autorizado por Credly ® y Cisco ® para emitir insignias de certificación en 🇺🇸 EE.UU
