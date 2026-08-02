@@ -4,7 +4,7 @@
 
 ## 🧠 Sobre mí
 
-**Ingeniero de Software** con más de **+10 años de experiencia** creando productos tecnológicos de alto impacto. Toda mi carrera [Professional] está basada en estas especialidades:
+**Ingeniero de Software** con más de **+12 años de experiencia** creando productos tecnológicos de alto impacto. Toda mi carrera [Professional] está basada en estas especialidades:
 
 - 💻 Full Stack Engineer (React.js + Backend en 6 Lenguajes) [Professional]
 - 📊 Data Analyst, Data Developer & Data Engineer [Professional]
