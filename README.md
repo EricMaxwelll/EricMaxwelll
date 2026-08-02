@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Eric Maxwelll 👋</h1>
-<p align="center">🔩 Software Engineer • 🖥️ UX Engineer • ⚙️ Data Engineer</p>
-<p align="center">🇨🇱 Programadores.org | 🇺🇸 AmericanSoftware.us
+<p align="center">💼 Software Engineer &  Data Engineer</p>
+<p align="center">♟️ CEO en 🇨🇱 Programadores.org | 🇺🇸 AmericanSoftware.us
 
 ## 🧠 Sobre mí
 
@@ -14,6 +14,7 @@
 - 💼 Elaboración de Proyectos de Certificación Internacional TI [Professional]
 - 🏕️ Docencia en VIVO de Programas Bootcamps TI [Professional]
 - 🎖️ Revisión y Certificación de Proyectos de Certificación Internacional [Professional]
+- 🤖 Manejo Avanzado de Sistemas & Automatizaciones con Inteligencia Artificial [Professional]
 
 Además de mis habilidades profesionales que utilizo en mi día a día, tengo una trayectoria de [Hobbies] relacionados:
   
@@ -29,12 +30,10 @@ Además de mis habilidades profesionales que utilizo en mi día a día, tengo un
 - 👨‍💻 Lidero equipos remotos en startups en 🇨🇱 Chile, 🇺🇸 EE.UU y 🇪🇺 Europa.
 - 🎓 Formo a profesionales en **Ingeniería de Datos** y en **Full Stack Development**.
 - 🌐 Lidero comunidades locales de programación en todo **Latinoamérica**
-- 🎖️ Autorizado por Credly ® y Cisco ® para emitir insignias de certificación en 🇺🇸 EE.UU
-- 💼 Creo programas de capacitación de 48 hrs especializados + Proyectos Finales que incluyen:
-    - 🧰 1 Sesión de Configuración de Ambiente
-    - 🎬 4 Sesiónes En Vivo de 4 horas
-    - 💼 1 Sesión de Proyecto Final 
-    - 📖 24 horas de contenido asincrónico por programa
+- 🎖️ Autorizado por Credly ® para emitir insignias de certificación internacionales en 🇺🇸 EE.UU
+- 💼 Creo programas de capacitación especializados y Proyectos de certificación que incluyen:
+    - 🎬 6 Sesiones de 2 horas de contenidos
+    - 💼 6 Sesiones de 2 horas de práctica
 
 ## 🛠 Stack Actual
 
@@ -50,7 +49,6 @@ Además de mis habilidades profesionales que utilizo en mi día a día, tengo un
 - Aprendiendo ...
   - GO
   - Rust
-  - Zig
 
 </details>
 
@@ -62,7 +60,6 @@ Además de mis habilidades profesionales que utilizo en mi día a día, tengo un
 - Aprendiendo ...
   - PL/SQL
   - SQL Server
-  - Redis
 
 </details>
 
@@ -70,13 +67,12 @@ Además de mis habilidades profesionales que utilizo en mi día a día, tengo un
 <summary><strong>🔬 Data Science / ⚙️ Data Engineer</strong></summary>
 
 - Selenium IDE for Web Scraping
+- Playwright for Web Scraping
 - JavaScript for Analyst
 - Python for Analyst
 - DataGrip (Admin Databases)
 - DataSpell (Local Notebooks)  
-  ↳ 6 CPUs + 64 GB RAM  
-- DeepNote (Remote Notebooks)  
-  ↳ 4 vCPUs + 16 GB RAM  
+  ↳ 6 CPUs + 64 GB RAM
 - Aprendiendo ...
   - Data Science
   - Machine Learning
@@ -90,9 +86,7 @@ Además de mis habilidades profesionales que utilizo en mi día a día, tengo un
 
 - Google Apps Script (Macros in Google ®)
 - Express
-- Flask
 - FastAPI
-- Django
 - Ruby on Rails
 - Laravel
 - Spring Boot
@@ -117,7 +111,6 @@ Además de mis habilidades profesionales que utilizo en mi día a día, tengo un
 - React  
 - Aprendiendo ...
   - Astro
-  - Next.js
   - Angular
   - Vue.js
 
@@ -137,7 +130,5 @@ Además de mis habilidades profesionales que utilizo en mi día a día, tengo un
 - Aprendiendo ...
   - Kubernetes
   - Terraform
-  - Dokploy
-  - Coolify
 
 </details>
