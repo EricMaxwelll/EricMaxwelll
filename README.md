@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Eric Maxwelll 👋</h1>
 <p align="center">🔩 Software Engineer • 🖥️ UX Engineer • ⚙️ Data Engineer</p>
-<p align="center">🇨🇱 Programadores.org | 🇺🇸 AmericanSoftware.us | 🇪🇺 HiringAndTalent.com </p>
+<p align="center">🇨🇱 Programadores.org | 🇺🇸 AmericanSoftware.us
 
 ## 🧠 Sobre mí
 
