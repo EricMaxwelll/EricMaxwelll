@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Eric Maxwelll 👋</h1>
-<p align="center">💼 Software Engineer &  Data Engineer</p>
+<p align="center">💼 Software, Data & LLM Engineer em @xp-la.com</p>
 <p align="center">♟️ CEO en 🇨🇱 Programadores.org | 🇺🇸 AmericanSoftware.us
 
 ## 🧠 Sobre mí
