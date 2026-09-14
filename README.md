@@ -9,7 +9,7 @@
 - 💻 Full Stack Engineer (React.js + Backend en 6 Lenguajes) [Professional]
 - 📊 Data Analyst, Data Developer & Data Engineer [Professional]
 - 🛠 DevOps Engineer [Professional]
-- 🚀 Startups & Product Management en 🇨🇱 Chile, 🇺🇸 EE.UU y 🇪🇺 Europa [Professional]
+- 🚀 Startups & Product Management en 🇨🇱 Chile, 🇧🇴 Bolivia, 🇺🇸 EE.UU y 🇪🇺 Europa [Professional]
 - 🎓 Elaboración de Programas Curriculares Bootcamps TI [Professional]
 - 💼 Elaboración de Proyectos de Certificación Internacional TI [Professional]
 - 🏕️ Docencia en VIVO de Programas Bootcamps TI [Professional]
